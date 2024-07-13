@@ -6,8 +6,7 @@
   <title>My Simple Page</title>
 </head>
 <body>
-  <h1>Welcome to my website!</h1>
-  <p>This is a my test page for aws-test-pipeline.</p>
-  <p>You can add more content here, like images, links, or forms.</p>
+  <h1>Welcome to alnafi leaning plateform!</h1>
+  <p>This is a my 2nd test page for aws-test-pipeline.</p>
 </body>
 </html>
